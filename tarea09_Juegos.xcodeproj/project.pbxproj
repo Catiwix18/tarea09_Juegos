@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		B8499CE42C2C507A00F198EE /* JuegosViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8499CE32C2C507A00F198EE /* JuegosViewController.swift */; };
 		B8AD78612C27D8FA00A31860 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AD78602C27D8FA00A31860 /* AppDelegate.swift */; };
 		B8AD78632C27D8FA00A31860 /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AD78622C27D8FA00A31860 /* SceneDelegate.swift */; };
 		B8AD78652C27D8FA00A31860 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = B8AD78642C27D8FA00A31860 /* ViewController.swift */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		B8499CE32C2C507A00F198EE /* JuegosViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = JuegosViewController.swift; sourceTree = "<group>"; };
 		B8AD785D2C27D8FA00A31860 /* tarea09_Juegos.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = tarea09_Juegos.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		B8AD78602C27D8FA00A31860 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		B8AD78622C27D8FA00A31860 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -66,6 +68,7 @@
 				B8AD786E2C27D8FE00A31860 /* LaunchScreen.storyboard */,
 				B8AD78712C27D8FE00A31860 /* Info.plist */,
 				B8AD78692C27D8FA00A31860 /* tarea09_Juegos.xcdatamodeld */,
+				B8499CE32C2C507A00F198EE /* JuegosViewController.swift */,
 			);
 			path = tarea09_Juegos;
 			sourceTree = "<group>";
@@ -141,6 +144,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				B8499CE42C2C507A00F198EE /* JuegosViewController.swift in Sources */,
 				B8AD78652C27D8FA00A31860 /* ViewController.swift in Sources */,
 				B8AD786B2C27D8FA00A31860 /* tarea09_Juegos.xcdatamodeld in Sources */,
 				B8AD78612C27D8FA00A31860 /* AppDelegate.swift in Sources */,
